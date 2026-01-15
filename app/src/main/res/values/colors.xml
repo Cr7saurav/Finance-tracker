@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Amazon Colors -->
+    <color name="amazon_primary">#FF9900</color>
+    <color name="amazon_primary_dark">#E68A00</color>
+    <color name="amazon_dark_blue">#232F3E</color>
+    <color name="amazon_light_blue">#37475A</color>
+    <color name="amazon_background">#F2F3F3</color>
+    <color name="amazon_text_dark">#131921</color>
+    
+    <!-- Financial Colors -->
+    <color name="financial_green">#00A65A</color>
+    <color name="financial_red">#DD4B39</color>
+    <color name="financial_yellow">#F39C12</color>
+    <color name="financial_blue">#3C8DBC</color>
+    
+    <!-- Neutral -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F7F7F7</color>
+    <color name="gray_medium">#DDDDDD</color>
+    <color name="gray_dark">#666666</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF9900</color>
+    <color name="gradient_mid">#FFAD33</color>
+    <color name="gradient_end">#FFC266</color>
+</resources>

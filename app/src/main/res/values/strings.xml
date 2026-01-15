@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Financial Reality Check</string>
+    <string name="dashboard_overview">Dashboard Overview</string>
+    <string name="detailed_finance_check">Detailed Finance Check</string>
+    <string name="daily_reality_check">Daily Reality Check</string>
+    <string name="health">Health</string>
+    <string name="reality_vs_goal">Reality vs Goal</string>
+    <string name="finance">Finance</string>
+    <string name="career">Career</string>
+    <string name="relationships">Relationships</string>
+    <string name="update_reality">Update Reality</string>
+    <string name="mood_energy">Mood \u0026 Energy</string>
+    <string name="current_mood">Current Mood</string>
+    <string name="energy_level">Energy Level</string>
+    <string name="app_logo">App Logo</string>
+    <string name="toggle_password">Toggle Password</string>
+    <string name="back">Back</string>
+</resources>
